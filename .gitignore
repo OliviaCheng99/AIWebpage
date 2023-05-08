@@ -40,3 +40,7 @@ out/
 
 # intellij
 .idea/
+
+# Gradle
+.gradle/
+/build/
